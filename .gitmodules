@@ -1,0 +1,3 @@
+[submodule "kicad/STM_Morpho/gekkio-kicad-libs"]
+	path = kicad/STM_Morpho/gekkio-kicad-libs
+	url = https://github.com/Gekkio/gekkio-kicad-libs

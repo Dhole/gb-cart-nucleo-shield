@@ -16,11 +16,16 @@ This PCB is meant to be used with my Game Boy Cart reader/writer:
 
 ![3D](kicad/STM_Morpho/STM_Morpho.jpg)
 
-## License
+## Attributions
 
-To design this PCB is based on an [STM32 NUCLEO Morpho template made by
+The design this PCB is based on an [STM32 NUCLEO Morpho template made by
 mobilinkd](https://github.com/mobilinkd/stm-morpho-template) published under
 the MIT License.
+
+The Game Boy cartridge slot component used in the PCB is taken from the [KiCad libraries by gekkio](https://github.com/Gekkio/gekkio-kicad-libs) published under the 
+[Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/)
+
+## License
 
 I'm publishing the rest of the work under the [Creative Commons Attribution-ShareAlike license](https://creativecommons.org/licenses/by-sa/4.0/).
 

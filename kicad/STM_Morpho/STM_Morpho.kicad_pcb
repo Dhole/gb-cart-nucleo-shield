@@ -2,7 +2,7 @@
 
   (general
     (links 41)
-    (no_connects 1)
+    (no_connects 0)
     (area 129.924999 62.924999 199.825001 131.575001)
     (thickness 1.6)
     (drawings 19)
@@ -472,7 +472,7 @@
   )
 
   (module Gekkio_GameBoy:GameBoy_Cartridge_Slot_DSLite (layer F.Cu) (tedit 596AA299) (tstamp 5AACC871)
-    (at 165.306 122.54 180)
+    (at 165.56 122.54 180)
     (descr "Game Boy cartridge slot, DS Lite")
     (tags "gameboy cartridge slot")
     (path /5AAC96CF)

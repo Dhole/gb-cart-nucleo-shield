@@ -1,4 +1,4 @@
-update=2018-03-16T21:23:29 PDT
+update=2018-03-17T16:03:22 PDT
 version=1
 last_client=eeschema
 [pcbnew]
@@ -58,5 +58,5 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=/home/dev/git/gekkio-kicad-libs/Gekkio_GameBoy
-LibName31=switches
+LibName30=switches
+LibName31=gekkio-kicad-libs/Gekkio_GameBoy
