@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Gekkio_GameBoy)(type KiCad)(uri "$(KIPRJMOD)/STM_Morpho/gekkio-kicad-libs/Gekkio_GameBoy.pretty")(options "")(descr ""))
+  (lib (name Dhole_GameBoy)(type KiCad)(uri "$(KIPRJMOD)/STM_Morpho.pretty")(options "")(descr ""))
+)

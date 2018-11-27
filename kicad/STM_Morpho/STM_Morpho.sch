@@ -1,37 +1,6 @@
-EESchema Schematic File Version 2
-LIBS:power
-LIBS:device
-LIBS:transistors
-LIBS:conn
-LIBS:linear
-LIBS:regul
-LIBS:74xx
-LIBS:cmos4000
-LIBS:adc-dac
-LIBS:memory
-LIBS:xilinx
-LIBS:microcontrollers
-LIBS:dsp
-LIBS:microchip
-LIBS:analog_switches
-LIBS:motorola
-LIBS:texas
-LIBS:intel
-LIBS:audio
-LIBS:interface
-LIBS:digital-audio
-LIBS:philips
-LIBS:display
-LIBS:cypress
-LIBS:siliconi
-LIBS:opto
-LIBS:atmel
-LIBS:contrib
-LIBS:valves
-LIBS:Gekkio_GameBoy
-LIBS:switches
+EESchema Schematic File Version 4
 LIBS:STM_Morpho-cache
-EELAYER 25 0
+EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -46,7 +15,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L CONN_02X19 CN7
+L STM_Morpho-rescue:CONN_02X19 CN7
 U 1 1 58745202
 P 3550 3050
 F 0 "CN7" H 3550 4050 50  0000 C CNN
@@ -57,7 +26,7 @@ F 3 "" H 3550 2050 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L CONN_02X19 CN10
+L STM_Morpho-rescue:CONN_02X19 CN10
 U 1 1 5874523E
 P 6750 3050
 F 0 "CN10" H 6750 4050 50  0000 C CNN
@@ -68,7 +37,7 @@ F 3 "" H 6750 2050 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Conn_GameBoy_Cartridge_Slot J1
+L STM_Morpho-rescue:Conn_GameBoy_Cartridge_Slot J1
 U 1 1 5AAC96CF
 P 9650 3050
 F 0 "J1" H 9550 4750 50  0000 C CNN
@@ -79,7 +48,7 @@ F 3 "" H 9550 3050 50  0001 L CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SW_SPDT SW1
+L STM_Morpho-rescue:SW_SPDT SW1
 U 1 1 5AAC9860
 P 7500 4600
 F 0 "SW1" H 7500 4770 50  0000 C CNN
@@ -90,7 +59,7 @@ F 3 "" H 7500 4600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SW_SPST SW2
+L STM_Morpho-rescue:SW_SPST SW2
 U 1 1 5AAC98D7
 P 7500 5400
 F 0 "SW2" H 7500 5525 50  0000 C CNN
@@ -471,7 +440,7 @@ NoConn ~ 7000 2550
 NoConn ~ 7000 3850
 NoConn ~ 7000 3950
 $Comp
-L GND #PWR01
+L STM_Morpho-rescue:GND #PWR01
 U 1 1 5AACE29A
 P 5950 5550
 F 0 "#PWR01" H 5950 5300 50  0001 C CNN

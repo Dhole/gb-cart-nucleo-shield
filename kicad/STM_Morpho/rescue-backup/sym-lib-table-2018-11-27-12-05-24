@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name STM_Morpho-rescue)(type Legacy)(uri ${KIPRJMOD}/STM_Morpho-rescue.lib)(options "")(descr ""))
+  (lib (name Gekkio_GameBoy)(type Legacy)(uri ${KIPRJMOD}/gekkio-kicad-libs/Gekkio_GameBoy.lib)(options "")(descr ""))
+)

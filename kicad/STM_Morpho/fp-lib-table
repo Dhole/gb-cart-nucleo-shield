@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name STM_Morpho)(type KiCad)(uri /home/dev/Documents/projects/stm32/gb-shield-NUCLEO/kicad/STM_Morpho.pretty)(options "")(descr ""))
+)

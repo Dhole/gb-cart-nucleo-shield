@@ -1,0 +1,51 @@
+Cmp-Mod V01 Created by PcbNew   date = Tue 27 Nov 2018 08:55:55 PM CET
+
+BeginCmp
+TimeStamp = 5AACC871
+Path = /5AAC96CF
+Reference = J1;
+ValeurCmp = Conn_GameBoy_Cartridge_Slot;
+IdModule  = STM_Morpho:GameBoy_Cartridge_Slot_NDS;
+EndCmp
+
+BeginCmp
+TimeStamp = 5874D428
+Path = /5874523E
+Reference = CN10;
+ValeurCmp = CONN_02X19;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x19;
+EndCmp
+
+BeginCmp
+TimeStamp = 5874D3F2
+Path = /58745202
+Reference = CN7;
+ValeurCmp = CONN_02X19;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x19;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AACC88D
+Path = /5AAC9860
+Reference = SW1;
+ValeurCmp = SW_SPDT;
+IdModule  = Buttons_Switches_THT:SW_CuK_JS202011CQN_DPDT_Straight;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AACC8A9
+Path = /5AAC98D7
+Reference = SW2;
+ValeurCmp = SW_SPST;
+IdModule  = Buttons_Switches_THT:SW_CuK_JS202011CQN_DPDT_Straight;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AACE994
+Path = 
+Reference = REF***;
+ValeurCmp = OSHW-Logo_11.4x12mm_SilkScreen;
+IdModule  = Symbols:OSHW-Logo_11.4x12mm_SilkScreen;
+EndCmp
+
+EndListe
