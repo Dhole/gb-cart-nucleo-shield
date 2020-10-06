@@ -12,9 +12,37 @@ This PCB is meant to be used with my Game Boy Cart reader/writer:
 
 ## Pictures
 
-![PCB](kicad/STM_Morpho/STM_Morpho-brd.svg)
+<img src="kicad/STM_Morpho/STM_Morpho-brd.svg" height="320"><img src="kicad/STM_Morpho/STM_Morpho.jpg" height="320">
 
-![3D](kicad/STM_Morpho/STM_Morpho.jpg)
+<img src="images/assembled.jpg?raw=true" height="480">
+
+## Components
+
+Prices are estimations taken from AliExpress (except when stated explicitly)
+
+- 2 x 6 pin toggle switch (~ 2 x 1.3 EUR / 10)
+
+<img src="images/switch_a.jpg?raw=true" height="140"><img src="images/switch_b.jpg?raw=true" height="140">
+
+- 2 x 40 pin header connector strip, 2.54m spacing (~ 2 x 1.03 EUR / 10)
+  - You will need to cut the strips into: 2 x 17 pins, 2 x 19 pins
+
+<img src="images/pin_header.jpg?raw=true" height="140">
+
+- 1 x GBA slot (~ 1 x 7.02 EUR / 5)
+
+<img src="images/gba_slot_a.jpg?raw=true" height="140"><img src="images/gba_slot_b.jpg?raw=true" height="140">
+
+The firmware is implemented to work on the NUCLEO-F411RE
+
+- 1 x NUCLEO-F411RE (1 x 11.48 EUR at [eu.mouser.com](https://eu.mouser.com))
+
+<img src="images/nucleo_board.jpg?raw=true" height="140">
+
+I ordered the manufacture of the board at JLCPCB with great results
+- 1 x 2 layer PCB board (~ 1 x 10 EUR / 10 with shipping included in 2018)
+
+<img src="images/pcb_front.jpg?raw=true" height="320"><img src="images/pcb_back.jpg?raw=true" height="320">
 
 ## Attributions
 
